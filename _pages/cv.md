@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-BSc Geology, St. Xavier's College (Mumbai), 2010 - 2013
+@cr BSc Geology, St. Xavier's College (Mumbai), 2010 - 2013
 @cr MSc Environmental Science, Jawaharlal Nehru University (JNU), 2013 - 2015
 @cr PhD Climate Science, University of New South Wales (UNSW), 2017 - 2021 (expected)
 
 Work experience
 ======
-Early Career Researcher Representative | 2018 - 2019
-  ARC Centre of Excellence for Climate Extremes (CLEX)
+## Early Career Researcher Representative | 2018 - 2019
+@cr ARC Centre of Excellence for Climate Extremes (CLEX)
     * Provide formal and informal communication channels between ECR members and the CLEX executive committee
 
 Social Media Coordinator | 2017 - 2019
