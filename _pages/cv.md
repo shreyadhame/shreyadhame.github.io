@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc Geology, St. Xavier's College (Mumbai), 2010 - 2013
+* MSc Environmental Science, Jawaharlal Nehru University (JNU), 2013 - 2015
+* PhD Climate Science, University of New South Wales (UNSW), 2017 - 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Early Career Researcher Representative | 2018 - 2019
+  * ARC Centre of Excellence for Climate Extremes (CLEX)
+  * Provide formal and informal communication channels between ECR members and the CLEX executive committee
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Social Media Coordinator | 2017 - 2019
+  * Climate Change Research Centre (CCRC), UNSW Sydney
+  * Discover current trends in climate science and design posts to sustain readers’ curiosity
+  * Facilitate online conversations and respond to queries
+  
+* Atmospheric Perils Specialist | 2017
+  * Willis Towers Watson
+  * Interpretation and assessment of catastrophe risk models related to wind perils
+  * Design, plan, carry out and coordinate model sensitivity analyses for different territories​
   
 Skills
 ======
