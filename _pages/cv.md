@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 BSc Geology, St. Xavier's College (Mumbai), 2010 - 2013
-\n\nMSc Environmental Science, Jawaharlal Nehru University (JNU), 2013 - 2015
-@cr PhD Climate Science, University of New South Wales (UNSW), 2017 - 2021 (expected)
+MSc Environmental Science, Jawaharlal Nehru University (JNU), 2013 - 2015
+PhD Climate Science, University of New South Wales (UNSW), 2017 - 2021 (expected)
 
 Work experience
 ======
