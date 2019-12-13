@@ -13,8 +13,8 @@ Education
 ======
 PhD Climate Science, University of New South Wales (UNSW) Sydney | 2017 - 2021 (expected)   
 MSc Environmental Science, Jawaharlal Nehru University (JNU) New Delhi | 2013 - 2015   
-BSc Geology, St. Xavier's College Mumbai | 2010 - 2013   
-
+BSc Geology, St. Xavier's College Mumbai | 2010 - 2013      
+    
 Work experience
 ======  
 ## Atmospheric Perils Specialist | 2017
@@ -47,7 +47,7 @@ Work experience
 *National Institute of Oceanography*   
 * Conducted time series analysis on ocean mooring data to identify the influence of climate modes of variability on the thermal structure of the eastern Indian Ocean
 * Assisted in launching weekly upsondes for measuring atmospheric parameters
-
+    
 Service and Outreach
 ======
 ## Early Career Researcher Representative | 2018 - 2019   
@@ -59,7 +59,7 @@ Service and Outreach
 *Climate Change Research Centre (CCRC), UNSW Sydney*
 * Coordinated with colleagues and explored new research in climate science to design Facebook posts to sustain readers' curiosity
 * Facilitated online conversations and responded to queries
-
+    
 Skills
 ======
 * Strong bash scripting skills
