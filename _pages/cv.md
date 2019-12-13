@@ -18,7 +18,7 @@ BSc Geology, St. Xavier's College (Mumbai) | 2010 - 2013<br />
 Work experience
 ======  
 ## Atmospheric Perils Specialist | 2017
-  Willis Towers Watson<br />
+## Willis Towers Watson<br />
     * Undertook interpretation and assessment of catastrophe risk models related to wind peril
     * Utilised Willis Research Network (WRN) scientific output for model interpretation/adjustment
     * Developed an understanding of the components of different catastrophe models (RMS, AIR, EQECAT)
@@ -50,8 +50,7 @@ Work experience
 
 Service and Outreach
 ======
-## Early Career Researcher Representative | 2018 - 2019
-## ARC Centre of Excellence for Climate Extremes (CLEX)<br />
+## Early Career Researcher Representative | 2018 - 2019<br />ARC Centre of Excellence for Climate Extremes (CLEX)<br />
 * Liason communication between Early Career Researchers (ECRs) and the centre's executive committee
 * Assisted in organising the ECR day for the annual event
 
