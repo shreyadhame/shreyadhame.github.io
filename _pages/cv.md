@@ -17,7 +17,7 @@ BSc Geology, St. Xavier's College Mumbai | 2010 - 2013
 
 Work experience
 ======  
-## Atmospheric Perils Specialist | 2017    
+## Atmospheric Perils Specialist | 2017
 *Willis Towers Watson*    
 * Undertook interpretation and assessment of catastrophe risk models related to wind peril
 * Utilised Willis Research Network (WRN) scientific output for model interpretation/adjustment
