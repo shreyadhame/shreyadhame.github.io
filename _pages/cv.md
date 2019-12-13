@@ -50,7 +50,8 @@ Work experience
 
 Service and Outreach
 ======
-## Early Career Researcher Representative | 2018 - 2019<br />ARC Centre of Excellence for Climate Extremes (CLEX)<br />
+## Early Career Researcher Representative | 2018 - 2019   
+*ARC Centre of Excellence for Climate Extremes (CLEX)*   
 * Liason communication between Early Career Researchers (ECRs) and the centre's executive committee
 * Assisted in organising the ECR day for the annual event
 
