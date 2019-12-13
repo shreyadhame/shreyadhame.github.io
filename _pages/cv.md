@@ -51,14 +51,14 @@ Work experience
 Service and Outreach
 ======
 ## Early Career Researcher Representative | 2018 - 2019
-ARC Centre of Excellence for Climate Extremes (CLEX)<br />
-    * Liason communication between Early Career Researchers (ECRs) and the centre's executive committee
-    * Assisted in organising the ECR day for the annual event
+## ARC Centre of Excellence for Climate Extremes (CLEX)<br />
+* Liason communication between Early Career Researchers (ECRs) and the centre's executive committee
+* Assisted in organising the ECR day for the annual event
 
 ## Social Media Coordinator | 2017 - 2019
-  Climate Change Research Centre (CCRC), UNSW Sydney<br />
-    * Coordinated with colleagues and explored new research in climate science to design Facebook posts to sustain readers' curiosity
-    * Facilitated online conversations and responded to queries
+## Climate Change Research Centre (CCRC), UNSW Sydney<br />
+* Coordinated with colleagues and explored new research in climate science to design Facebook posts to sustain readers' curiosity
+* Facilitated online conversations and responded to queries
 
 Skills
 ======
