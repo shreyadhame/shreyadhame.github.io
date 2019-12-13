@@ -12,35 +12,50 @@ redirect_from:
 Education
 ======
 BSc Geology, St. Xavier's College (Mumbai), 2010 - 2013<br />
-MSc Environmental Science, Jawaharlal Nehru University (JNU), 2013 - 2015
-PhD Climate Science, University of New South Wales (UNSW), 2017 - 2021 (expected)
+MSc Environmental Science, Jawaharlal Nehru University (JNU), 2013 - 2015<br />
+PhD Climate Science, University of New South Wales (UNSW), 2017 - 2021 (expected)<br />
 
 Work experience
 ======
 ## Early Career Researcher Representative | 2018 - 2019
-ARC Centre of Excellence for Climate Extremes (CLEX) @cr
+ARC Centre of Excellence for Climate Extremes (CLEX)<br />
     * Provide formal and informal communication channels between ECR members and the CLEX executive committee
 
 Social Media Coordinator | 2017 - 2019
-  Climate Change Research Centre (CCRC), UNSW Sydney
+  Climate Change Research Centre (CCRC), UNSW Sydney<br />
     * Discover current trends in climate science and design posts to sustain readers’ curiosity
     * Facilitate online conversations and respond to queries
   
 Atmospheric Perils Specialist | 2017
-  Willis Towers Watson
-    * Interpretation and assessment of catastrophe risk models related to wind perils
-    * Design, plan, carry out and coordinate model sensitivity analyses for different territories​
+  Willis Towers Watson<br />
+    * Undertook interpretation and assessment of catastrophe risk models related to wind peril
+    * Utilised Willis Research Network (WRN) scientific output for model interpretation/adjustment
+    * Developed an understanding of the components of different catastrophe models (RMS, AIR, EQECAT)
+    * Carried out model sensitivity analysis for three projects on windstorm and hurricane risk
+    * Developed programming skills in R to process and analyse storm track data
+    * Wrote client reports and prepared presentations
 
 Catastrophe Analyst | 2016
-  Willis Towers Watson 
-    * Probabilistic estimation of losses to insurance companies due to various perils including earthquake, windstorm, etc. Prepared data for auditing and create summary reports of client provided exposure data
-    * Modeled for various perils including Earthquake, Windstorm, Flood, Terrorism on Property as well as Worker’s Compensation exposures (Detailed and Aggregate models)
-    * Prepared catastrophe modeling reports (loss reports, re-insurer reports, etc.) including result interpretation​
+  Willis Towers Watson<br />
+    * Created summary reports on clients’ insurance portfolio data and used it to import data into models (RMS, AIR and EQECAT)
+    * Prepared catastrophe modelling reports from the model output
+    * Undertook model sensitivity analysis
+    * Developed a good understanding of geo-visualisation tools (ArcGIS and SpatialKey), Relational Databases and SQL
     
-Physical Oceanography Intern | 2014
-  National Institute of Oceanography
-    * Conducted time series and empirical orthogonal function (EOF) analysis of large oceanographic data-sets to identify spatial and temporal modes of climate variability in the eastern Indian Ocean.
-    * Assisted in launching weekly upsondes for measuring atmospheric parameters.
+Outreach Officer | 2016
+  Greenpeace India<br />
+    * Collaborated with companies for fund-raising and outreach, gave one stakeholder presentation and recommended solutions to four companies on environmental issues
+    * Designed a monthly outreach plan, called and gave presentations to prospective companies, coordinated fund-raising units and assisted in training volunteers and members of the fund-raising team on environmental and climate related issues
+    
+Fellow | 2016 
+  Pollinate Energy<br />
+    * Identified key organizational strengths and weaknesses relevant to expanding the business to the city
+    * Conducted field surveys and market research analysis into sustainable solutions and products (solar lights and water filters) for the urban slum citizens of Mumbai. The results were submitted to the local council
+    
+Research Intern | 2014
+  National Institute of Oceanography<br />
+    * Conducted time series analysis on ocean mooring data to identify the influence of climate modes of variability on the thermal structure of the eastern Indian Ocean
+    * Assisted in launching weekly upsondes for measuring atmospheric parameters
     
 Skills
 ======
