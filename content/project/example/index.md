@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Ocean warming patterns
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
